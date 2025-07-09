@@ -1,7 +1,8 @@
 import { logoData } from "./logo.js";
-import gsap from "./node_modules/gsap/index.js";
-import ScrollTrigger from "./node_modules/gsap/ScrollTrigger.js";
-import Lenis from "./node_modules/lenis/lenis.js";
+
+import gsap from "gsap";
+import ScrollTrigger from "gsap/ScrollTrigger";
+import Lenis from "lenis";
 
 
 
